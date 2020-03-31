@@ -1,0 +1,13 @@
+{
+  "name": "test_flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "jest"
+  },
+  "devDependencies": {
+    "jest": "25.2.4"
+  }
+}
